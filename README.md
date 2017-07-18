@@ -1,5 +1,12 @@
 # vue-2.4.1-test
 
+This is an issue report.
+
+https://github.com/vuejs/vue/issues/6146
+
+
+
+
 > Vue 2.3.4 & 2.4.1 has different behavior in pre tag compilation
 
 
