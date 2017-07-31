@@ -4,7 +4,9 @@ This is an issue report.
 
 https://github.com/vuejs/vue/issues/6146
 
+This bug was fixed in vue 2.4.2:
 
+https://github.com/vuejs/vue/commit/082fc3967db4d3290e901a38504dcd9bb698e561
 
 
 > Vue 2.3.4 & 2.4.1 has different behavior in pre tag compilation
